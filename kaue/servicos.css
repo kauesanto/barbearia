@@ -1,3 +1,29 @@
 h1{
-    color: aquamarine;
+    background-color: rgb(245, 161, 155);
+}
+body{
+    background-color: rgb(252, 192, 192);
+}
+
+nav li {
+    display: inline;
+    margin-right: 30px;
+}
+
+nav a{
+    text-transform:uppercase;
+    color: rgb(235, 101, 101);
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+}
+nav {
+    position:absolute;
+    top: 50px;
+    right: 0px;
+}
+caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
