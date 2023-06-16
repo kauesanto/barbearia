@@ -7,27 +7,30 @@ body{
 
 nav li {
     display: inline;
-    margin-right: 30px;
+    margin-right: 60px;
 }
 
 nav a{
     text-transform:uppercase;
     color: rgb(20, 13, 13);
     font-weight: bold;
-    font-size: 35px;
+    font-size: 70px;
     text-decoration: none;
 }
 nav {
     position:absolute;
-    top: 60px;
-    right: 200px;
+    top: 10px;
+    right: 0px;
 }
-caixa{
+.caixa{
     position: relative;
-    width: 940px;
-    margin: 0 auto;
+   
+    margin: 17px auto;
 }
 
 .logotipo{
-    width: 37px;
+    width: 100px;
+}
+header{
+    background-color: rgb(240, 4, 4);
 }
