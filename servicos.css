@@ -82,3 +82,19 @@ border-radius: 13px;
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer{
+    text-align: center;
+    background: url("footer bg.jpg");
+    padding: 40px;
+}
+
+footer img{
+    width: 10%;
+}
+
+.copyright {
+   font-size: 13px;
+   margin: 20px 0 ;
+   color: white;
+}
